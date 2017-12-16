@@ -3,3 +3,12 @@ A basic facsimile of a digital storefront.
 
 The customer is first shown a list of all product information:
 ![Initial View](images/initialview.png)
+
+After choosing a product and quantity to purchase, the customer is given an invoice and given a chance to make another purchase:
+![Customer Interaction](images/customerinteraction.png)
+
+Product before purchase:
+![Product Before Purchase](images/productbeforepurchase.png)
+
+Product after purchase:
+![Product after Purchase](images/productafterpurchase.png)
