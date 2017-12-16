@@ -3,7 +3,7 @@
 The customer is first shown a list of all product information:
 ![Initial View](images/initialview.png)
 
-After choosing a product and quantity to purchase, the customer is shown an invoice and given a chance to make another purchase:
+After choosing a product and quantity to purchase, the customer is invoiced and may make another purchase:
 ![Customer Interaction](images/customerinteraction.png)
 
 Product before purchase:
