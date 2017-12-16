@@ -1,4 +1,4 @@
-# bamazon - _A basic digital storefront_
+# Bamazon - _A basic digital storefront_
 
 The customer is first shown a list of all product information:
 ![Initial View](images/initialview.png)
