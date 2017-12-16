@@ -17,7 +17,7 @@ connection.connect((err)=>{
 
 function readProducts() {
   productArr = [];
-  console.log("Available Products\n");
+  console.log("Available Products\n".underline);
   connection.query("SELECT * FROM products ORDER BY product_name ASC", (err, res)=>{
     if (err) throw err;
     for (let product of res) {
