@@ -9,5 +9,5 @@ After choosing a product and quantity to purchase, the customer is invoiced and 
 Product before purchase:
 ![Product Before Purchase](images/productbeforepurchase.png)
 
-Product after purchase:
+Product after purchase:  
 ![Product after Purchase](images/productafterpurchase.png)
