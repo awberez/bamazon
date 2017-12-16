@@ -11,3 +11,6 @@ Product before purchase:
 
 Product after purchase:  
 ![Product after Purchase](images/productafterpurchase.png)
+
+The customer will be notified if they attempt to purchase a quantity of product that exceeds the available stock:
+![Failure](images/failure.png)
