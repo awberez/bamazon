@@ -1,10 +1,10 @@
 # bamazon
-A basic facsimile of a digital storefront.
+_A basic digital storefront_
 
 The customer is first shown a list of all product information:
 ![Initial View](images/initialview.png)
 
-After choosing a product and quantity to purchase, the customer is given an invoice and given a chance to make another purchase:
+After choosing a product and quantity to purchase, the customer is shown an invoice and given a chance to make another purchase:
 ![Customer Interaction](images/customerinteraction.png)
 
 Product before purchase:
